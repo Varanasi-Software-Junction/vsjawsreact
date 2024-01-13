@@ -1,7 +1,7 @@
 import './App.css';
 
 function App() {
-  const logourl="https://3.bp.blogspot.com/-py5FbTZgvjo/YDi1bsQq16I/AAAAAAAACB0/BxejbJBcHA4AVfkB33WYC3YlVmxElM7BwCK4BGAYYCw/s1600/Varanasi%2BSoftware%2BJunction%2BPhone%2BLogo.png";
+  const logourl = "https://3.bp.blogspot.com/-py5FbTZgvjo/YDi1bsQq16I/AAAAAAAACB0/BxejbJBcHA4AVfkB33WYC3YlVmxElM7BwCK4BGAYYCw/s1600/Varanasi%2BSoftware%2BJunction%2BPhone%2BLogo.png";
   return (
     <div className="App">
       <header className="App-header">
@@ -11,11 +11,11 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://github.com/Varanasi-Software-Junction/vsjawsreact"
           target="_blank"
-          rel="noopener noreferrer"
+
         >
-          Learn React
+          Learn React in Varanasi Software Junction
         </a>
       </header>
     </div>
